@@ -1,0 +1,20 @@
+{
+    "name": "teampay/voyager-api-admin",
+    "version": "1.0.0",
+    "minimum-stability": "dev",
+    "require": {
+        "tcg/voyager": "1.1.2",
+        "arrilot/laravel-widgets": "3.12"
+    },
+    "authors": [
+        {
+            "name": "Oleg",
+            "email": "teampay@protonmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Teampay\\VoyagerApiAdmin\\": ""
+        }
+    }
+}
